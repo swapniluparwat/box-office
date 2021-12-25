@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
-import { SearchCard } from '../Style';
+import { SearchCard } from '../styled';
 
-export const StyleShowCard = styled(SearchCard)`
+export const StyledShowCard = styled(SearchCard)`
   .btns {
     margin-top: 15px;
     display: flex;
