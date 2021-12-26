@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import { StyledShowCard } from './ShowCard.styled';
+import { StyledShowCard } from './ShowCard.style';
 
 const ShowCard = ({ id, image, name, summary }) => {
   const summaryAsText = summary
